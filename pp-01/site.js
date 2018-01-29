@@ -6,10 +6,11 @@ $('#contact-form').on('submit',
     regex_results = emailcheck_regex.exec(email);
     console.log(regex_results);
     e.preventDefault();
+    $("<h1 id='form-check-results'>TEST</h1>").insertAfter($(this));
     if(!regex_results || regex_results.length > 1) {
-      /* Yell at user */
+      /* Change content of form-check-results to an error message */
     } else {
-      $("<h1>Thank you for signing up!</h1>").insertAfter($(this));
+      /* Change content of form-check-results to an error message */
       $(this).remove();
     }
   }
