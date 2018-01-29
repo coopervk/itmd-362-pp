@@ -9,8 +9,8 @@ $('#contact-form').on('submit',
     if(!regex_results || regex_results.length > 1) {
       /* Yell at user */
     } else {
-      /* Remove form */
-      /* Thank the user */
+      $("<h1>Thank you for signing up!</h1>").insertAfter($(this));
+      $(this).remove();
     }
   }
 );
