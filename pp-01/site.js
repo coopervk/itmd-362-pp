@@ -2,7 +2,7 @@ $('#contact-form').on('submit',
   function(e) {
     var email = $('#email').val();
     var emailcheck_regex = /.+@.+\..+/g;
-    regex_results = emailcheck_regex.exec(email);
+    var regex_results = emailcheck_regex.exec(email);
     e.preventDefault();
     if ($("#form_check_results").length == 0) {
       $("<h1 id='form_check_results' class=''>TEST</h1>").insertAfter($(this));
