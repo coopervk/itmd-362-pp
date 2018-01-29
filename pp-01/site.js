@@ -5,8 +5,8 @@ $('#contact-form').on('submit',
     var emailcheck_regex = /.+@.+\..+/g;
     regex_results = emailcheck_regex.exec(email);
     console.log(regex_results);
+    e.preventDefault();
     if(!regex_results || regex_results.length > 1) {
-      e.preventDefault();
       /* Yell at user */
     } else {
       /* Remove form */
