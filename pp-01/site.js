@@ -11,10 +11,10 @@ $('#contact-form').on('submit',
     }
     if(!regex_results || regex_results.length > 1) {
       $("#form_check_results").attr('class', 'error_message');
-      /* Change content of form-check-results to an error message */
+      $("#form_check_results").text("Uh oh! Your email appears incorrect! Try again.");
     } else {
       $("#form_check_results").attr('class', 'thanks_message');
-      /* Change content of form-check-results to a thanks message */
+      $("#form_check_results").text("Thank you for signing up, " + regex_results[0] + "!");
       $(this).remove();
     }
   }
