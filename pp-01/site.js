@@ -12,7 +12,7 @@ $('#contact-form').on('submit',
     if(!regex_results || regex_results.length > 1) {
       /* Change content of form-check-results to an error message */
     } else {
-      /* Change content of form-check-results to an error message */
+      /* Change content of form-check-results to a thanks message */
       $(this).remove();
     }
   }
