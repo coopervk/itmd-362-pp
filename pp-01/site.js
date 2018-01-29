@@ -4,7 +4,7 @@ $('#contact-form').on('submit',
     var emailcheck_regex = /.+@.+\..+/g;
     var regex_results = emailcheck_regex.exec(email);
     e.preventDefault();
-    if ($("#form_check_results").length == 0) {
+    if ($("#form_check_results").length === 0) {
       $("<h1 id='form_check_results' class=''>TEST</h1>").insertAfter($(this));
     }
     if(!regex_results || regex_results.length > 1) {
