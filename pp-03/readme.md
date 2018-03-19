@@ -34,5 +34,7 @@ them. They have that "kid feel" that's hard to explain, too.
 
 4. A custom color palette for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=12S0u0k++za00K+HTYQ+ZmL++1U
+Your Rationale: Based on the generic hacker "colorset" of offwhite, black, and neon green. Has
+good association with the prompt. So much so that it's instantly identifiable. And, as an ad,
+you care more about association and attention than subtlety.
