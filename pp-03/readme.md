@@ -28,8 +28,9 @@ website. A nice, muted violent, purple-ish pink, and red.
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=3000u0krGr63EzOgLugzEkpU1c+
+Your Rationale: A nice, friendly, red green and blue that don't melt your eyes when you look at
+them. They have that "kid feel" that's hard to explain, too.
 
 4. A custom color palette for advertising a course on cybersecurity
 
