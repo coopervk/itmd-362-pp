@@ -21,8 +21,10 @@ service that isn't an eyesore.
 
 2. An adjacent color palette for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=55g0k0kjbJx00++9eTzs9D8Kfql
+Your Rationale: Simply put, I chose the adjacent color pallette that had the most common flower
+colors. This one only lacks yellow, and yellow is a rough color to deal with anyway for a
+website. A nice, muted violent, purple-ish pink, and red.
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 
