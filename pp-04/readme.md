@@ -36,5 +36,9 @@ HCI Guidline One (URL): https://developer.apple.com/ios/human-interface-guidelin
 * How you implemented it in your sketch:
 -Peek on the image to reveal the whole banner image used on the current desktop version
 
-* HCI Guidline Three (URL):
+* HCI Guidline Three (URL): https://developer.apple.com/ios/human-interface-guidelines/visual-design/branding/
 * How you implemented it in your sketch:
+-Remove unnecessary details like the "Illinois institute of technology" text and the complex black pattern.
+-Change it to just the solid, apple red, with offblack "my IIT" text inside a while bubble all the way to the
+left.
+-Simply put, "defer to content," "onubtrusive," and "remove logo throughout app."
