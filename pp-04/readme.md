@@ -32,8 +32,9 @@ HCI Guidline One (URL): https://developer.apple.com/ios/human-interface-guidelin
 -Remove unnecessary bg-color border on Headers for sections and login button.
 -Use the Apple described red on user interactive things, white on reading areas, and gray on empty space
 
-* HCI Guidline Two (URL):
+* HCI Guidline Two (URL): https://developer.apple.com/ios/human-interface-guidelines/user-interaction/3d-touch/
 * How you implemented it in your sketch:
+-Peek on the image to reveal the whole banner image used on the current desktop version
 
 * HCI Guidline Three (URL):
 * How you implemented it in your sketch:
