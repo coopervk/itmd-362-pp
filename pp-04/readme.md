@@ -27,8 +27,10 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
+HCI Guidline One (URL): https://developer.apple.com/ios/human-interface-guidelines/visual-design/color/
 * How you implemented it in your sketch:
+-Remove unnecessary bg-color border on Headers for sections and login button.
+-Use the Apple described red on user interactive things, white on reading areas, and gray on empty space
 
 * HCI Guidline Two (URL):
 * How you implemented it in your sketch:
