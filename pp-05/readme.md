@@ -15,18 +15,18 @@ your own master usability checklist.
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1.https://wsuwp-uploads.s3.amazonaws.com/uploads/sites/7/2015/08/25-point-usability-checklist-final.pdf (Replace WSU with your org)
+2.https://internetdevels.com/blog/50-point-checklist-for-website-usability-testing
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. It is clear that your website is about and who you are.
+2. It is clear what the user is doing.
+3. It is clear where the user can go (navigate to).
+4. There are no redundancies or conflicting links or content.
+5. Follow a general template for all of your pages.
+6. Create a general map for your entire website.
+7. Follow general practices like the site logo being a link to the home page.
+8. Split large forms into multiple pages.
+9. Make forms as small as possible
+10. Make your color code to specific things or actions
